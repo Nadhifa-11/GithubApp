@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GithubAppV2</string>
+    <string name="txt_harvey_leigh_cantwell">Harvey Leigh Cantwell</string>
+    <string name="txt_flutter_developer">Flutter Developer</string>
+    <string name="txt_uk">UK</string>
+    <string name="txt_hrvy_gmail_com">hrvy@gmail.com</string>
+    <string name="txt_followers">Followers</string>
+    <string name="_100">100</string>
+    <string name="txt_following">Following</string>
+    <string name="txt_follow">Follow</string>
+    <string name="txt_background">background</string>
+    <string name="txt_iv_profile">iv_profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
